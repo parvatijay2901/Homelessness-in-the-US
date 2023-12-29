@@ -1,4 +1,4 @@
-# A Tool to Visually Analyze Homelessness Trends in U.S. Metros
+# Tool to Analyze Homelessness Trends in the U.S. Metros
 
 ## Introduction
 This project outlines a tool developed to empower researchers, non-governmental organizations (NGOs), and local policymakers with comprehensive visual insights into homelessness trends in US Metropolitan Statistical Areas (MSAs) since 2007. The tool aims to enhance
@@ -6,7 +6,7 @@ decision-making and resource allocation in addressing challenges related to home
 
 Access the tool here: [tableau-tool](https://public.tableau.com/views/HomelessnessinUSMetros_17038724245780/Home?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![Home page](http://url/to/img.png)
+![Home page](https://github.com/parvatijay2901/Homelessness-in-the-US/blob/2dee0d1c5af47a202ac36534f27b38e3ac25cd54/home-page.png)
 
 ## Key Findings
 1. Current Challenges
